@@ -1,4 +1,8 @@
-                                 .-..-.
+We are going to make some changes we are need for our web seminars, here.
+_________________________________________________________________________
+UAWEB Team
+
+.-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
   | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
@@ -26,3 +30,5 @@ Moodle is written in PHP and JavaScript and uses an SQL database for storing
 the data.
 
 See <https://docs.moodle.org> for details of Moodle's many features.
+__________________________________________________________________________________________
+
